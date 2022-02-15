@@ -1,7 +1,7 @@
 ### Hi there 👋
  🔭 I’m currently studying at Bursa Technical University.
  <br>
- 🌱 I’m currently learning C programming.
+ 🌱 I’m currently learning Java.
  <br>
  📫 How to reach me: metehansozenli60@gmail.com & www.linkedin.com/in/metehan-sozenli
  <br>
