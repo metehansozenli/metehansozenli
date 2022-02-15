@@ -1,8 +1,8 @@
 ### <p align="center"><font size="12">Hi👋, I'm Metehan SOZENLI</font></p>
  🔭 I’m currently studying at Bursa Technical University.
- <br>
+ <br><br>
  🌱 I’m currently learning Java.
- <br>
+ <br><br>
  ⚡Languages and tools
  <br>
  <img src="https://img.icons8.com/fluency/36/000000/c.png"/><img src="https://img.icons8.com/stickers/36/000000/python.png"/><img src="https://img.icons8.com/color/36/000000/java-coffee-cup-logo--v1.png"/><img src="https://img.icons8.com/color/36/000000/adobe-photoshop--v1.png"/>
