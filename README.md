@@ -1,4 +1,4 @@
-### Hi there 👋
+### <p align="center"><font size="10">Hi there 👋</font></p>
  🔭 I’m currently studying at Bursa Technical University.
  <br>
  🌱 I’m currently learning Java.
