@@ -6,7 +6,7 @@
  ⚡Languages and tools
  <br>
  <img src="https://img.icons8.com/fluency/36/000000/c.png"/><img src="https://img.icons8.com/stickers/36/000000/python.png"/><img src="https://img.icons8.com/color/36/000000/java-coffee-cup-logo--v1.png"/><img src="https://img.icons8.com/color/36/000000/adobe-photoshop--v1.png"/>
- <br>
+ <br><br>
  📫 How to reach me: metehansozenli60@gmail.com & www.linkedin.com/in/metehan-sozenli
  <br>
 <!--
