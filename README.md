@@ -1,4 +1,4 @@
-### <p align="center"><font size="12"><b>Hi👋, I'm Metehan SOZENLI<b></font></p><br>
+### <p align="center"><font size="12"><b>Hi👋, I'm Metehan SÖZENLİ<b></font></p><br>
  🔭 I’m currently studying at Bursa Technical University.
  <br><br>
  🌱 I’m currently learning Java.
