@@ -3,7 +3,7 @@
  <br>
  🌱 I’m currently learning <p><font><b>Java<b></font></p>.
  <br>
- ⚡<p><font size="5" color="yellow">Languages and tools</font></p>
+ <p><font size="5" color="YELLOW">⚡Languages and tools</font></p>
  <br>
  <img src="https://img.icons8.com/fluency/48/000000/c.png"/><img src="https://img.icons8.com/stickers/48/000000/python.png"/><img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v1.png"/><img src="https://img.icons8.com/color/48/000000/adobe-photoshop--v1.png"/>
 
