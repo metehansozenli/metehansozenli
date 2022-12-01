@@ -3,7 +3,7 @@
  <br><br>
  🌱 I’m currently working on Data Structures.
  <br><br>
- ⚡Languages and tools
+ ⚡Languages, tools and other skills
  <br>
  <img src="https://img.icons8.com/fluency/36/000000/c.png"/><img src="https://img.icons8.com/stickers/36/000000/python.png"/><img src="https://img.icons8.com/color/36/000000/java-coffee-cup-logo--v1.png"/><img src="https://img.icons8.com/color/36/000000/adobe-photoshop--v1.png"/>
  <br><br>
