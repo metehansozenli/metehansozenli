@@ -1,4 +1,4 @@
- <p img align="center" alt="gif" src="https://www.hizliresim.com/fevqmb8" height="200"/></p><br>
+ <p img align="center" src="https://www.hizliresim.com/fevqmb8" height="200"/></p><br>
  🔭 I’m currently studying at Bursa Technical University.
  <br><br>
  🌱 I’m currently working on Data Structures.
