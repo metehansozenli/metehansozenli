@@ -1,4 +1,4 @@
- <p img align="center" src="https://www.hizliresim.com/fevqmb8" height="200"/></p><br>
+### <p align="center"><font size="12"><b>Hi👋, I'm Metehan SÖZENLİ<b></font></p><br>
  🔭 I’m currently studying at Bursa Technical University.
  <br><br>
  🌱 I’m currently working on Data Structures.
@@ -19,9 +19,7 @@
 
 <!--
 **metehansozenli/metehansozenli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
-
 - 🔭 I’m currently working on ...
 -
 - 👯 I’m looking to collaborate on ...
