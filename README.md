@@ -1,6 +1,5 @@
 ### <p align="center"><font size="12"><b>Hi👋, I'm Metehan SÖZENLİ<b></font></p><br>
- <p><img align="center" src="https://github.com/metehansozenli/metehansozenli/blob/main/gif.gif" width="600"/></p>
- <br>
+ <img align="center" src="https://github.com/metehansozenli/metehansozenli/blob/main/gif.gif" width="600"/>
  🔭 I’m currently studying at Bursa Technical University.
  <br><br>
  🌱 I’m currently working on Data Structures.
