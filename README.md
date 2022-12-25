@@ -3,7 +3,7 @@
  <p align="center"><img src="https://github.com/metehansozenli/metehansozenli/blob/main/gif.gif" width="600"/></p><br>
  🔭 I’m currently studying at Bursa Technical University.
  <br><br>
- 🌱 I’m currently working on Data Structures.
+ 🌱 I’m currently working on Unity and C#.
  <br><br>
  ⚡Languages, tools and other skills
  <br>
