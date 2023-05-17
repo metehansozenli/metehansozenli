@@ -1,7 +1,5 @@
- ![](https://github.com/metehansozenli/metehansozenli/blob/main/gif.gif)
  <p align="center"><font size="12"><b></font></p><br>
-
- <!-- <p align="center"><img src="https://github.com/metehansozenli/metehansozenli/blob/main/gif.gif" width="600"/></p><br> -->
+ <p align="center"><img src="https://github.com/metehansozenli/metehansozenli/blob/main/gif.gif" width="700"/></p><br>
  🔭 I’m currently studying at Bursa Technical University.
  <br><br>
  🌱 I’m currently working on Javascript.
