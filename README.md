@@ -2,8 +2,6 @@
  <p align="center"><img src="https://github.com/metehansozenli/metehansozenli/blob/main/gif.gif" width="700"/></p><br>
  🔭 I’m currently studying at Bursa Technical University.
  <br><br>
- 🌱 I’m currently working on Javascript.
- <br><br>
  ⚡Languages, tools and other skills
  <br>
  <img src="https://img.icons8.com/fluency/36/000000/c.png" /><img src="https://img.icons8.com/stickers/36/000000/python.png" /><img src="https://img.icons8.com/color/36/000000/java-coffee-cup-logo--v1.png" /><img src="https://img.icons8.com/color/36/000000/adobe-photoshop--v1.png" />
